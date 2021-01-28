@@ -1,11 +1,14 @@
+
 body {
     background-color: black;
+    
 }
+
 h1 {
     text-align: center;
-    background-color: rgb(128, 0, 128);
+    
 }
 p{
-    text-align: justify;
-    background-color: rgb(128, 0, 128);
+    text-align: center;
+    
 }
