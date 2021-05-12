@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1/people")
-public class PersonController {
+public class SundaysController {
     @GetMapping
     public String getBook() {
-        return "API Test!"
+        return "API Test!";
     }
 }
